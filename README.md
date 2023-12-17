@@ -134,7 +134,6 @@ resource "yandex_compute_snapshot" "snapshot-1" {
 }
 ```
 
-![alt text](https://github.com/StepanovSA/faulttolerance/blob/main/балансировщик.PNG)
 ![alt text](https://github.com/StepanovSA/faulttolerance/blob/main/nginx.PNG)
 
 
