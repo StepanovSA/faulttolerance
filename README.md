@@ -133,7 +133,7 @@ resource "yandex_compute_snapshot" "snapshot-1" {
   source_disk_id = "${yandex_compute_instance.vm[0].boot_disk[0].disk_id}"
 }
 ```
-![alt text](https://github.com/StepanovSA/faulttolerance/blob/main/балансировщик.PNG)
+![alt text](https://github.com/StepanovSA/faulttolerance/blob/main/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA.PNG)
 ![alt text](https://github.com/StepanovSA/faulttolerance/blob/main/nginx.PNG)
 
 
